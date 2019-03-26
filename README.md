@@ -2,7 +2,7 @@
 ### Author’(s) LowkeyCoding, Anons  
 
 # 1 Introduction
-What, where trying to achive is to recreate the old classic Haboo. Habbo (previously known as Habbo Hotel) is a social networking service and online community aimed at teenagers. The website is owned and operated by Sulake, a Finnish corporation. The service began in 2000 and has expanded to include nine online communities (or ”hotels”), with users in over 150 countries [>>70288715](https://boards.4channel.org/g/thread/70288715)  
+Where trying to recreate the old classic Haboo. Habbo (previously known as Habbo Hotel) is a social networking service and online community aimed at teenagers. The website is owned and operated by Sulake, a Finnish corporation. The service began in 2000 and has expanded to include nine online communities (or ”hotels”), with users in over 150 countries [>>70288715](https://boards.4channel.org/g/thread/70288715)  
 
 ## 1.1 Point of whitepaper
 This ”Whitepaper” is trying to specify a path for the project to go. The paper will be written, partially complete to leave some decesions up to the /g/ community via poles.  
