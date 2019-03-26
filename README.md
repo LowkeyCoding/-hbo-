@@ -8,10 +8,10 @@ We're trying to recreate the old classic Haboo. Habbo (previously known as Habbo
 This outline is trying to specify a path for the project to go. The paper will be written, partially complete to leave some decisions up to the /g/ community via poles.    
 
 # 2 Frontend
-I see two major paths this project can take [>>70289125](https://boards.4channel.org/g/thread/70288715#p70289125) and others are interested in creating a standalone application. We could also stay more true to the original game and develop it as a hmtl5 game. An example is [Habboin](https://github.com/TheNamesRay/Habboin-HTML5) an old abandoned project. [Frontend pole](https://www.strawpoll.me/17681082) 
+I see two major paths this project can take [>>70289125](https://boards.4channel.org/g/thread/70288715#p70289125) and others are interested in creating a standalone application. We could also stay more true to the original game and develop it as a hmtl5 game. An example is [Habbo in HTML5](https://github.com/TheNamesRay/Habboin-HTML5) an old abandoned project. [Frontend pole](https://www.strawpoll.me/17681082) 
 
 # 3 Backend
 The backend is more open we could go either with nodejs, go, C and many other languages but, it seems the community leans more towards C and C++. [Backend pole](https://www.strawpoll.me/17681079) 
 
-# 4 Revive [Habboin project](https://github.com/TheNamesRay/Habboin-HTML5)
-Lastly, we can create a fork of Habboin and add the missing features. [Revive pole](https://www.strawpoll.me/17682346)
+# 4 Revive [Habbo in HTML5 project](https://github.com/TheNamesRay/Habboin-HTML5)
+Lastly, we can create a fork of "Habbo in HTML5" and add the missing features. [Revive pole](https://www.strawpoll.me/17682346)
